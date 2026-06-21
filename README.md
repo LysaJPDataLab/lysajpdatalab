@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👩🏻‍💻 Lysara Pinheiro
 
-<!--
-**LysaJPDataLab/lysajpdatalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheira Eletricista | Analista de WTG II | Disponibilidade e Performance de Aerogeradores`**
 
-Here are some ideas to get you started:
+Olá! Sou Lysara Pinheiro, Engenheira Eletricista, Tecnóloga em Energias Renováveis, Técnica em Eletromecânica e pós-graduada em Qualidade, Gestão e Engenharia de Processos. Atualmente atuo na Auren Energia, sendo responsável pelo monitoramento de disponibilidade e performance de aerogeradores distribuídos entre diferentes complexos eólicos do Brasil. Meu trabalho envolve análise de dados operacionais, acompanhamento de indicadores de manutenção, análise de falhas, avaliação de perdas de geração e suporte à tomada de decisão em ambientes de Operação e Manutenção (O&M).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho grande interesse pela interseção entre análise de dados, inteligência artificial e gestão de ativos, buscando constantemente ampliar meus conhecimentos para aplicar tecnologia para aumentar a eficiência e a confiabilidade dos sistemas de geração de energia.
+
+<p align="left">
+    <a href="https://github.com/LysaJPDataLab?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/LysaJPDataLab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/LysaJPDataLab?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/LysaJPDataLab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LysaJPDataLab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysaJPDataLab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
