@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lysara Pinheiro
 
-**`Engenheira Eletricista | Analista de WTG II | Disponibilidade e Performance de Aerogeradores`**
+**`Engenheira Eletricista | Analista de WTG II | Operação e Manutenção de Aerogeradores`**
 
 Olá! Sou Lysara Pinheiro, Engenheira Eletricista e Analista de WTG na Auren Energia. Atuo com monitoramento de disponibilidade e performance de aerogeradores, transformando dados operacionais em informações que apoiam a tomada de decisão e a melhoria dos resultados dos ativos.
 
