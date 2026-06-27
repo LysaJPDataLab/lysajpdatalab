@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Lysara Pinheiro
 
-**`Engenheira Eletricista | Analista de WTG II | Operação e Manutenção de Aerogeradores`**
+**`Engenheira Eletricista | Analista de WTG | Foco em IA e Analytics para Manutenção e Gestão de Ativos`**
 
-Olá! Sou Lysara Pinheiro, Engenheira Eletricista e Analista de WTG na Auren Energia. Atuo com monitoramento de disponibilidade e performance de aerogeradores, transformando dados operacionais em informações que apoiam a tomada de decisão e a melhoria dos resultados dos ativos.
+Olá! Sou Lysara Pinheiro, Analista focada em inteligência e validação de dados operacionais de aerogeradores. Atuo com monitoramento de disponibilidade e performance de aerogeradores em O&M de parque eólicos, transformando dados operacionais em informações que apoiam a melhoria dos resultados dos ativos.
 
-Atualmente estou expandindo minha atuação por meio do estudo e da aplicação prática de análise de dados, automação, inteligência artificial e desenvolvimento de soluções para Operação e Manutenção (O&M). Este GitHub reúne projetos, estudos e experimentos que refletem essa jornada de aprendizado e evolução profissional, conectando engenharia, tecnologia e dados ao setor de energia renovável.
+Com forte perfil analítico e foco em resolução de problemas, estou direcionando minha carreira para me tornar Especialista em Dados e IA. Este GitHub está em construção e funciona como meu laboratório de estudos: um espaço para registrar minha jornada de aprendizado, testar códigos e compartilhar meus primeiros experimentos práticos conectando engenharia e tecnologia e dados ao setor de manutenção e gestão de ativos, aplicado em energia renovável.
 <!-- Badges de estrelas e seguidores do GitHub: Removidos temporariamente do perfil, mas mantidos para reutilização futura.
 
 <p align="left">
