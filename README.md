@@ -4,7 +4,7 @@
 
 Olá! Sou Lysara Pinheiro, Analista focada em inteligência e validação de dados operacionais de aerogeradores. Atuo com monitoramento de disponibilidade e performance de aerogeradores em O&M de parque eólicos, transformando dados operacionais em informações que apoiam a melhoria dos resultados dos ativos.
 
-Com forte perfil analítico e foco em resolução de problemas, estou direcionando minha carreira para me tornar Especialista em Dados e IA. Este GitHub está em construção e funciona como meu laboratório de estudos: um espaço para registrar minha jornada de aprendizado, testar códigos e compartilhar meus primeiros experimentos práticos conectando engenharia e tecnologia e dados ao setor de manutenção e gestão de ativos, aplicado em energia renovável.
+Com forte perfil analítico e foco em resolução de problemas, estou direcionando minha carreira para me tornar Especialista em Dados e IA. Este GitHub está em construção e funciona como meu laboratório de estudos: um espaço para registrar minha jornada de aprendizado, testar códigos e compartilhar meus primeiros experimentos práticos conectando engenharia e tecnologia ao setor de manutenção e gestão de ativos, aplicado em energia renovável.
 <!-- Badges de estrelas e seguidores do GitHub: Removidos temporariamente do perfil, mas mantidos para reutilização futura.
 
 <p align="left">
