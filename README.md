@@ -80,7 +80,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas
 
 <p>
   <img 
@@ -99,3 +99,4 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
   />
 
 </p>
+-->
