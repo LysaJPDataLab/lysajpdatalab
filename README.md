@@ -29,7 +29,9 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
     <!-- Banco de Dados e BI -->
     <img alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+    <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+     <!-- IA -->
+    <img alt="OpenAI / ChatGPT" title="OpenAI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
      <!-- Outras Tecnologias -->
     <img alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
     <img alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
