@@ -30,10 +30,12 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
     <img alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-     <!-- IA -->
+    <img alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/looker.svg" />
+     <!-- Tecnologias, Automação e IA -->
     <img alt="OpenAI / ChatGPT" title="OpenAI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
     <img alt="Gemini" title="Gemini" width="30px" style="padding-right: 10px;" src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" />
-     <!-- Outras Tecnologias -->
+    <img alt="n8n" title="n8n" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" />
+     <!-- Outras Ferramentas -->
     <img alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
     <img alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
