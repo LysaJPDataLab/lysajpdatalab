@@ -32,6 +32,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
     <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
      <!-- IA -->
     <img alt="OpenAI / ChatGPT" title="OpenAI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+    <img alt="Gemini" title="Gemini" width="30px" style="padding-right: 10px;" src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" />
      <!-- Outras Tecnologias -->
     <img alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
     <img alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
