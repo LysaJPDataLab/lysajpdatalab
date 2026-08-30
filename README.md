@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lysara Pinheiro
 
-**`Engenheira Eletricista | Analista de WTG | Foco em IA e Analytics para Manutenção e Gestão de Ativos`**
+**`Engenheira Eletricista | Foco em IA e Analytics para Manutenção e Gestão de Ativos`**
 
 Olá! Sou Lysara Pinheiro, Analista focada em inteligência e validação de dados operacionais de aerogeradores. Atuo com monitoramento de disponibilidade e performance de aerogeradores em O&M de parque eólicos, transformando dados operacionais em informações que apoiam a melhoria dos resultados dos ativos.
 
