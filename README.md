@@ -47,8 +47,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 
 ### 🏆 Conquistas e Certificações
 
-<p align="center">
-  <img width="300" height="300" alt="badge-rag-agente-ia" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" />
+  <img width="150" height="150" alt="badge-ONE-agente-ia" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" />
 </p>
 
 <!-- ### 📊 Estatísticas
