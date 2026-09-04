@@ -47,7 +47,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 
 ### 🏆 Conquistas e Certificações
 
-  <img width="150" height="150" alt="badge-ONE-agente-ia" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" />
+  <img width="150" height="150" alt="badge-ONE-agente-ia" title="Challenge Alura Agente - ONE" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" />
 </p>
 
 <!-- ### 📊 Estatísticas
