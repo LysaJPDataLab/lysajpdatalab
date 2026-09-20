@@ -51,7 +51,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 | Emblema | Certificação / Conquista | Instituição | Verificação |
 | :---: | :--- | :---: | :---: |
 | <img width="90" src="https://github.com/user-attachments/assets/573a5b38-a528-4d51-8b37-159fccb3ddac" alt="Oracle AI Badge"/> | **Oracle Cloud Infrastructure AI Certified Foundations Associate** | Oracle | [Validar Credencial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D0B015A07035497D9A1F258E74BD10A3A45B99DF190186FF5FA5083E9D1FD77) |
-| <img width="90" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" alt="Challenge ONE"/> | **Challenge Alura Agente - ONE** | Alura / Oracle ONE | — |
+| <img width="90" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" alt="Challenge ONE"/> | **Challenge Alura Agente - ONE** | Alura / Oracle Next Education - ONE | — |
 
 <!-- ### 📊 Estatísticas
 <p>
