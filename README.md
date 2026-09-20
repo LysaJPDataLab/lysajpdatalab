@@ -29,6 +29,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
     <!-- <img alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> -->
     <img alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <!-- Banco de Dados e BI -->
+    <img alt="Oracle" title="Oracle Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     <img alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
@@ -47,8 +48,10 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 
 ### 🏆 Conquistas e Certificações
 
-  <img width="150" height="150" alt="badge-ONE-agente-ia" title="Challenge Alura Agente - ONE" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" />
-</p>
+| Emblema | Certificação / Conquista | Instituição | Verificação |
+| :---: | :--- | :---: | :---: |
+| <img width="90" src="https://github.com/user-attachments/assets/573a5b38-a528-4d51-8b37-159fccb3ddac" alt="Oracle AI Badge"/> | **Oracle Cloud Infrastructure AI Certified Foundations Associate** | Oracle | [Validar Credencial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D0B015A07035497D9A1F258E74BD10A3A45B99DF190186FF5FA5083E9D1FD77) |
+| <img width="90" src="https://github.com/user-attachments/assets/22edc971-fc21-45ce-829c-96076364739d" alt="Challenge ONE"/> | **Challenge Alura Agente - ONE** | Alura / Oracle ONE | — |
 
 <!-- ### 📊 Estatísticas
 <p>
