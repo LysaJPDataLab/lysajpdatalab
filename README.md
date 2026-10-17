@@ -19,7 +19,7 @@ Com forte perfil analítico e foco em resolução de problemas, estou direcionan
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em Desenvolvimento
 
 <p align="left">
     <!-- Python e Bibliotecas de Dados -->
