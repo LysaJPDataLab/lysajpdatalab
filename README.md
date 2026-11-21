@@ -39,6 +39,9 @@ Com perfil analítico e orientada à melhoria contínua, venho consolidando minh
 | **🎨 Design** | <img alt="Canva" title="Canva" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> |
 
 <br/>
+
+---
+
 ### 🏆 Conquistas e Certificações
 
 | Emblema | Certificação / Conquista | Instituição | Emissão | Verificação |
