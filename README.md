@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Lysara Pinheiro
 
-**`Engenheira Eletricista | Foco em IA e Analytics para os setores de Manutenção, Gestão de Ativos e Geração de Energia`**
+`Engenheira Eletricista | Data Analytics & IA Aplicada à Manutenção, Confiabilidade e Gestão de Ativos`
 
-Olá! Sou Lysara Pinheiro, Analista focada em inteligência e validação de dados operacionais de aerogeradores. Atuo com monitoramento de disponibilidade e performance e manutenção de aerogeradores em O&M de parque eólicos, transformando dados operacionais em informações que apoiam a melhoria dos resultados dos ativos.
+Olá! Sou Engenheira Eletricista com atuação no setor de energia eólica, focada em inteligência operacional, validação de dados de aerogeradores (SCADA) e monitoramento de disponibilidade e performance de ativos. No dia a dia, transformo dados operacionais em análises estruturadas que apoiam a tomada de decisão em Operação & Manutenção (O&M) e a garantia de resultados contratuais.
 
-Com forte perfil analítico e foco em resolução de problemas, estou direcionando minha carreira para me especializar em Dados e IA aplicada a Manutenção e Gestão de Ativos no setor de geração de energia. Este perfil no GitHub está em construção e funciona como meu laboratório de estudos: um espaço para registrar minha jornada de aprendizado, testar códigos e compartilhar meus primeiros experimentos práticos conectando engenharia e tecnologia ao setor de manutenção e gestão de ativos.
+Com perfil analítico e orientada à melhoria contínua, venho consolidando minha atuação na interseção entre **Engenharia, Data Analytics e Inteligência Artificial**. Este espaço funciona como meu portfólio técnico e laboratório prático, onde documento soluções de análise de dados, automações de fluxos e agentes de IA aplicados a desafios reais da indústria e da gestão de ativos.
 
 <!-- Badges de estrelas e seguidores do GitHub: Removidos temporariamente do perfil, mas mantidos para reutilização futura.
 <p align="left">
