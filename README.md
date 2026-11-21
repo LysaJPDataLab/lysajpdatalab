@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/Language-English%20%F0%9F%87%BA%F0%9F%87%B8-blue?style=for-the-badge" alt="Read in English"/>
+  </a>
+</div>
+
 # 👩🏻‍💻 Lysara Pinheiro
 
 `Engenheira Eletricista | Data Analytics & IA Aplicada à Manutenção, Confiabilidade e Gestão de Performance de Ativos`
