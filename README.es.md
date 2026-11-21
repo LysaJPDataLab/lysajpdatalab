@@ -19,14 +19,30 @@ Con un fuerte perfil analítico y enfoque en la mejora continua, estoy consolida
 
 ### 🤖 Lenguajes y Tecnologías
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<p align="left">
+    <!-- Python e Bibliotecas de Dados -->
+    <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+    <!-- <img alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> -->
+    <img alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <!-- Banco de Dados e BI -->
+    <img alt="Oracle" title="Oracle Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <img alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+    <img alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/looker.svg" />
+     <!-- Tecnologias, Automação e IA -->
+    <img alt="OpenAI / ChatGPT" title="OpenAI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+    <img alt="Gemini" title="Gemini" width="30px" style="padding-right: 10px;" src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" />
+    <img alt="n8n" title="n8n" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" />
+     <!-- Outras Ferramentas -->
+    <img alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+    <img alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+<br/>
 
 ---
 
