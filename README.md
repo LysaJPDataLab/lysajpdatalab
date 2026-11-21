@@ -28,8 +28,7 @@ Com perfil analítico e orientada à melhoria contínua, venho consolidando minh
 
 ---
 
-### 🤖 Linguagens e Tecnologias em Desenvolvimento
-
+### 🤖 Linguagens e Tecnologias
 <p align="left">
     <!-- Python e Bibliotecas de Dados -->
     <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
