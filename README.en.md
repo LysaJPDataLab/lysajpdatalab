@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Lysara Pinheiro
 
-`Electrical Engineer | Data Analytics & Applied AI for Maintenance, Reliability & Asset Management`
+`Electrical Engineer | Data Analytics & Applied AI for Maintenance, Reliability & Asset Performance Management`
 
 Hi! I'm an Electrical Engineer working in the wind energy sector, focused on operational intelligence, wind turbine data validation (SCADA), and asset availability and performance monitoring. In my daily work, I turn operational data into structured insights that support Operation & Maintenance (O&M) decision-making and contractual performance.
 
