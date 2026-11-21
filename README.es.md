@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Lysara Pinheiro
 
-`Ingeniera Electricista | Data Analytics e IA Aplicada a Mantenimiento, Confiabilidad y Gestión de Activos`
+`Ingeniera Electricista | Data Analytics e IA Aplicada a Mantenimiento, Confiabilidad y Gestión del Rendimiento de Activos`
 
 ¡Hola! Soy Ingeniera Electricista con experiencia en el sector de energía eólica, enfocada en inteligencia operacional, validación de datos de aerogeneradores (SCADA) y monitoreo de disponibilidad y rendimiento de activos. En mi día a día, transformo datos operacionales en análisis estructurados que respaldan la toma de decisiones en Operación y Mantenimiento (O&M) y el cumplimiento de resultados contractuales.
 
